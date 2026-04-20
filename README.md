@@ -7,29 +7,29 @@
   <style>
     body {
       /* DARK PURPLE BACKGROUND NA ITO */
-      background: linear-gradient(to bottom, #5A189A, #240046);
+      background: ( bottom, #5A189A, #240046);
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
-      min-height: 100vh;
+      min-height: 100;
       margin: 0;
-      padding: 30px;
+      padding: 30;
       text-align: center;
     }
     .image-row {
       display: flex;
-      gap: 60px; 
+      gap: 60; 
       /* MALAKI ANG AGWAT PARA HINDI MAGKADIKIT */
       justify-content: center;
       flex-wrap: wrap;
-      margin: 20px 0;
+      margin: 20 0;
     }
     img {
-      border: 1px solid #ccc;
-      border-radius: 4px;
+      border: 1 solid #ccc;
+      border-radius: 4;
     }
     iframe, textarea, button {
-      margin: 15px 0;
+      margin: 150;
     }
   
   </style>
@@ -68,8 +68,8 @@
     <textarea id="userMessage" rows="4" cols="30" placeholder="Enter your message here"></textarea><br>
     <button onclick="sendMessage()">Send</button>
   <script>
-    function sendMessage() {
-      var message = document.getElementById("userMessage").value;
+    functionsendMessage() {
+      var messsage = document.getElementById("userMessage").value;
       alert("Message sent: " + message)
       document.getElementById("userMessage").value = "";
       
@@ -87,13 +87,13 @@
   body {
     font-family: Arial, sans-serif;
     background: #f2f2f2;
-    padding: 20px;
+    padding: 20;
     text-align: center;
   }
 
   .video-card {
-    width: 320px;
-    margin: 20px auto;
+    width: 320;
+    margin: 20 auto;
   }
 
   .video-frame {
