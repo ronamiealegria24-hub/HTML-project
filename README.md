@@ -6,7 +6,7 @@
   <title>Hello, CPSU!</title>
   <style>
     body {
-      /* DARK PURPLE BACKGROUND NA ITO */
+    
       background: ( bottom, #5A189A, #240046);
       background-size: cover;
       background-repeat: no-repeat;
@@ -19,7 +19,7 @@
     .image-row {
       display: flex;
       gap: 60; 
-      /* MALAKI ANG AGWAT PARA HINDI MAGKADIKIT */
+      
       justify-content: center;
       flex-wrap: wrap;
       margin: 20 0;
@@ -148,11 +148,11 @@
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(135deg, #6a0dad, #b266ff);
+      background: (135, #6a0dad, #b266ff);
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      height: 100;
       margin: 0;
     }
 
