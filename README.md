@@ -42,7 +42,7 @@
     
       <p>Hi! I'm Ronamie Alegria bachelor of science information technology</p>
   <h1>My Projects</h1>
-    <img src="/Lay out 2/t-shirt.jpg" alt="Activity" width="300">
+    <img src="IMG_20250905_151816.jpg.jpg" alt="Activity" width="300">
     <img src="/Activity /Product.jpg" alt="Activity" width="300">
     
       <h1>Certificates</h1>
